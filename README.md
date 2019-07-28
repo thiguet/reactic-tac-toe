@@ -1,3 +1,11 @@
+# ReacTic Tac Toe
+
+A implementation of React's Tic Tac Toe Official Example.
+
+This project uses [Bootstrap CSS][BS3] and [CSS Shake][CSS-SHAKE]
+
+Here's the [demo][DEMO].
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +74,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+[BS3]: <https://getbootstrap.com/docs/3.4/customize/>
+[CSS-SHAKE]: <https://elrumordelaluz.github.io/csshake/>
+[DEMO]: <https://thiguet.github.io/reactic-tac-toe/>
