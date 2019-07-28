@@ -1,0 +1,34 @@
+#root, html {
+    background:#009688;
+    font-family: Arial, Times New Roman;
+}
+
+.major-title {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.title {
+    color: aliceblue;
+    font-size: 30px;
+}
+
+hr {
+    border-top: 1px solid rgba(92, 0, 255, 0.15) !important; 
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.margin-bottom-100 {
+    margin-bottom: 100px;
+}
+
+span {
+    color: aliceblue; 
+}

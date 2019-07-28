@@ -1,0 +1,10 @@
+.square {
+    width: 100px;
+    height: 100px;
+    font-size: 50px !important;
+    background: none;
+    color: aliceblue;
+    outline: none;
+    border-radius: 100px !important;
+    border: 1px solid aliceblue !important;
+}
